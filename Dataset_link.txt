@@ -1,0 +1,2 @@
+Since the dataset is too big to be pushed to GitHub, here is the link for the dataset :- https://www.kaggle.com/datasets/rohanharode07/webmd-drug-reviews-dataset
+Hope this helps, thanks!
